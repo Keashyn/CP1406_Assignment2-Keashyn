@@ -163,7 +163,7 @@ hr{
         width: 56px;
         height: 56px;
         line-height: 56px;
-        linealign: center;
+        text-align: center;
         color: #FFF;
     }
     .title
@@ -175,7 +175,7 @@ hr{
     .title h2
     {
         letter-spacing: 0.20em;
-        fomt-weight: 700;
+        font-weight: 700;
         font-size: 2em;
         color: #5f9ea0;
     }
@@ -237,7 +237,7 @@ hr{
 
     #logo:before
     {
-        conetent: '';
+        content: '';
         position: absolute;
         top: 0;
         left: 0;
@@ -360,7 +360,7 @@ hr{
 
     #footer .byline
     {
-        lette-spacing: 0.15em;
+        letter-spacing: 0.15em;
         text-transform: uppercase;
         font-weight: 400;
         font-size: 0.90em;
@@ -380,7 +380,7 @@ hr{
         letter-spacing: 0.20em;
         text-align: center;
         text-transform: uppercase;
-        fpnt-size: 1em;
+        font-size: 1em;
         color: #FFFDFD;
     }
 
