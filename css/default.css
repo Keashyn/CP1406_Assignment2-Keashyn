@@ -395,30 +395,3 @@ ul.contact li a:before {
     text-align: center;
     list-style: none;
 }
-
-/* ----------- iPad Pro 10,5" or 12.9" ----------- */
-@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
-    /* For  portrait layouts only */
-    body, body, h1,h2,h3, p, ol, ul, p, a, a:hover, a img, .image, .image img, .image-full, .image-left, .image-centered, .image-centered img, hr,
-    .button, .button:before, ul.style2, ul.style2 li, ul.style2 li:first-child, ul.contact, ul.contact li, ul.contact li span,
-    ul.contact li a, ul.contact li a:before, .title, .title h2, .title .byline, .container, #wrapper, #footer-wrapper,
-    #header, #header:before, #logo, #logo:before, #logo h1, #logo a, #menu, #menu > ul > li > ul, #menu ul, #menu li,
-    #menu li a, #menu .current_page_item a, #page, #content, #sidebar, #sidebar .title h2, #sidebar .box1, #sidebar .box2,
-    #footer, #footer h2, #footer .byline, #copyright, #copyright p, #copyright a, .borders, #portfolio, #portfolio2,
-    #portfolio .title h2, #column1,#column2,#column3,#column4, #column1,#column2, #column3, #column4, #footer-link{
-        width:100%;
-    }
-}
-
-@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
-    /* For  landscape layouts only */
-    body, body, h1,h2,h3, p, ol, ul, p, a, a:hover, a img, .image, .image img, .image-full, .image-left, .image-centered, .image-centered img, hr,
-    .button, .button:before, ul.style2, ul.style2 li, ul.style2 li:first-child, ul.contact, ul.contact li, ul.contact li span,
-    ul.contact li a, ul.contact li a:before, .title, .title h2, .title .byline, .container, #wrapper, #footer-wrapper,
-    #header, #header:before, #logo, #logo:before, #logo h1, #logo a, #menu, #menu > ul > li > ul, #menu ul, #menu li,
-    #menu li a, #menu .current_page_item a, #page, #content, #sidebar, #sidebar .title h2, #sidebar .box1, #sidebar .box2,
-    #footer, #footer h2, #footer .byline, #copyright, #copyright p, #copyright a, .borders, #portfolio, #portfolio2,
-    #portfolio .title h2, #column1,#column2,#column3,#column4, #column1,#column2, #column3, #column4, #footer-link{
-        width:100%;
-    }
-}
