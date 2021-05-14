@@ -1,1 +1,1 @@
-https://keashyn.github.io/CP1406_Assignment2-Keashyn/index.html
+https://keashyn.github.io/CP1406_Assignment2-Keashyn/
