@@ -16,5 +16,21 @@ The plan has been updated with:
 To get to the usability test plan the link is below or just access the plan as well:
 <li><a accesskey="8" href="usability-test-plan.html" title="">Usability Testing Plan</a></li>
 
-To check if the newsletter work go to  a file called instructions.md. The instructions file will tell what to do to test the newsletter or the whole website.
+if you want check the whole website or just the newsletter part you can use the following:
 
+(The official website) https://keashyn.github.io/CP1406_Assignment2-Keashyn/ 
+
+or
+
+Use XAMPP to check 
+
+Go to  a file called instructions.md. The instructions file will tell what to do to test the newsletter or the whole website.
+The instructions have these following folders:
+<li>Milestone 1</li>
+<li>Milestone 2</li>
+<li>CSS</li>
+<li>fonts</li>
+<li>Images</li>
+
+The two folders which are milestone 1 and 2 are not in GitHub repo as you see  in the zip folder call CP1406_Keashyn_Assignment2_zip
+because the link will not show the homepage when you click on  this link "https://keashyn.github.io/CP1406_Assignment2-Keashyn/", so I submit the assignment 2 differently to LearnJCU 
