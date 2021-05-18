@@ -3,7 +3,7 @@ function validateForm()  {
     var e = document.getElementById("email").value;
     var b = document.getElementById("birthday").value;
     var p = document.getElementById("product").value;
-    var r = document.getElementById("Message").value;
+
     if(u == "") {
         alert("Please enter your name, it should not be blank");
         return false;
@@ -17,8 +17,7 @@ function validateForm()  {
         "\nName: " + u +
         "\nEmail: " + e +
         "\nProduct interests: " + p +
-        "\nBirthday: " + b +
-        "\nMessage: " + r +;
+        "\nBirthday: " + b;
 
     alert(message);
 
