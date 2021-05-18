@@ -1,6 +1,4 @@
-https://keashyn.github.io/CP1406_Assignment2-Keashyn/
-
-The above link is access to the full website where you see the following
+The full website has the following
 webpages:
 <li><a href="index.html" accesskey="1" title="">Home</a></li><li><a href="aboutme.html" accesskey="3" title="">AboutUs</a></li>
 <li><a href="menu.html" accesskey="4" title="">Menu</a></li>
@@ -31,7 +29,6 @@ The instructions have these following folders:
 <li>CSS</li>
 <li>fonts</li>
 <li>Images</li>
-
 
 The two folders which are milestone 1 and 2 are not in GitHub repo as you see  in the zip folder call CP1406_Keashyn_Assignment2_zip
 because the link will not show the homepage when you click on  this link "https://keashyn.github.io/CP1406_Assignment2-Keashyn/", so I submit the assignment 2 differently to LearnJCU 
