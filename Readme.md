@@ -16,4 +16,5 @@ The plan has been updated with:
 To get to the usability test plan the link is below or just access the plan as well:
 <li><a accesskey="8" href="Milestone 2/usability-test-plan.html" title="">Usability Testing Plan</a></li>
 
+
 To check if the newsletter work go to milestone 2 folder and look for a file called instructions.md. The instructions file will tell what to do to test the newsletter or the whole website.
