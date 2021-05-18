@@ -17,8 +17,8 @@ function validateForm()  {
         "\nName: " + u +
         "\nEmail: " + e +
         "\nProduct interests: " + p +
-        "\nBirthday: " + b ;
-        "\nMessage: " + r ;
+        "\nBirthday: " + b +
+        "\nMessage: " + r +;
 
     alert(message);
 
