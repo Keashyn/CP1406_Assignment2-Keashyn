@@ -5,8 +5,10 @@ Instruction steps
 3. Start the Apache server
 4. In xampp folder locate the htdocs folder
 5. Create a sub-folder in htdocs called testing
-6. Place the  files in c:\xampp/htdocs\testing
-7. Launch Chrome and type http://localhost/testing.
-8. Your form should appear.
-9. Enter the required fields
-10. The data will be sent to the php file on the server, and the information sent will be displayed.
+6. Place the Milestone 2  file in c:\xampp/htdocs\testing
+7. Do not remove any file in Milestone 2 the whole website need those files to work.
+8. Launch Chrome and type http://localhost/testing.
+9. You can click on those links when the file opens up and each of the links are linked to each other.
+10. After experiencing the links go to newsletter, and you will see a form.
+11. Enter the required fields
+12. The data will be sent to the php file on the server, and the information sent will be displayed.
