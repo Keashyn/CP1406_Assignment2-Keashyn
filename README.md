@@ -33,4 +33,4 @@ The instructions have these following folders:
 <li>Images</li>
 
 The two folders which are milestone 1 and 2 are not in GitHub repo as you see  in the zip folder call CP1406_Keashyn_Assignment2_zip
-because the link will not show the homepage when you click on  this link "https://keashyn.github.io/CP1406_Assignment2-Keashyn/", so I submit the assignment 2 differently on LearnJCU and on GITHUB 
+because the link will not show the homepage when you click on  this link "https://keashyn.github.io/CP1406_Assignment2-Keashyn/", so I submit the assignment 2 differently to LearnJCU 
