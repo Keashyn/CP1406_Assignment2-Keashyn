@@ -10,5 +10,6 @@ ProductInterests:<?php if(isset($_POST["submit"])){
 
 Birthday:<?php require "../class.datepicker.php"; $db=new datepicker(); $db->firstDayOfWeek = 1;  $db->dateFormat = "m d Y"; ?>
 
-Message: <textarea name="Message" rows="4"><?php echo $comment;?></textarea>
+Comment:<textarea name="comment" rows="4" cols="40"></textarea> <?php echo $comment;?>
+
 
