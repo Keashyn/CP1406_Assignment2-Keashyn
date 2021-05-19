@@ -1,4 +1,4 @@
-The full website has see the following
+The full website has  the following
 webpages:
 <li><a href="index.html" accesskey="1" title="">Home</a></li><li><a href="aboutme.html" accesskey="3" title="">AboutUs</a></li>
 <li><a href="menu.html" accesskey="4" title="">Menu</a></li>
