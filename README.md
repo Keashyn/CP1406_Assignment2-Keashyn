@@ -17,6 +17,7 @@ To get to the usability test plan the link is below or just access the plan as w
 <li><a accesskey="8" href="usability-test-plan.html" title="">Usability Testing Plan</a></li>
 
 
+
 if you want check the whole website or just the newsletter part you can use the following:
 
 
@@ -36,6 +37,7 @@ The instructions have these following folders:
 <li>CSS</li>
 <li>fonts</li>
 <li>Images</li>
+
 
 
 
