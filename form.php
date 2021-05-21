@@ -8,7 +8,7 @@ ProductInterests:<?php if(isset($_POST["submit"])){
                  echo $_POST["product"]."<br>";
                  }
                  else{
-                                  ?
+                                  ?>
 
 Birthday:<?php require "../class.datepicker.php"; $db=new datepicker(); $db->firstDayOfWeek = 1;  $db->dateFormat = "m d Y"; ?>
 
