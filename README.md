@@ -14,7 +14,7 @@ The plan has been updated with these:
 To get to the usability test plan the link is below or just access the plan as well:
 <li><a accesskey="8" href="usability-test-plan.html" title="">Usability Testing Plan</a></li>
 
-if you want check the whole website or just the newsletter part you can use the following:
+if you want to check the whole website or just the newsletter part you can use the following:
 
 (The official website) https://keashyn.github.io/CP1406_Assignment2-Keashyn/ 
 
